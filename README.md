@@ -1,1 +1,1 @@
-# kenya.relays.2023
+# kenya-relays
